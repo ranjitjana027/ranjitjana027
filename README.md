@@ -30,7 +30,13 @@ Here are some ideas to get you started:
 
 #### Tools
 ![](https://img.shields.io/badge/-Jupyter-fff?style=flat&logo=jupyter)
-![](https://img.shields.io/badge/-Spyder-fff?style=flat&logo=spyder)
+![](https://img.shields.io/badge/-Spyder-fff?style=flat&logo=anaconda)
+![](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+
+#### Full Stack Projects
+[![Agrivio](https://img.shields.io/badge/-🦠%20Agrivio-fff)](https://github.com/ranjitjana027/Agrivio)
+[![Flack](https://img.shields.io/badge/-📝%20Flack-fff?)](https://github.com/ranjitjana027/flackweb)
+
 
 <!--## Github Stats -->
 <a href="https://github.com/ranjitjana027/ranjitjana027">
