@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### Tools
 ![](https://img.shields.io/badge/-Jupyter-fff?style=flat&logo=jupyter)
-![](https://img.shields.io/badge/-Spyder-fff?style=flat&logo=anaconda)
+![](https://img.shields.io/badge/-Tensoflow-fff?style=flat&logo=tensorflow)
 ![](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 
 #### Full Stack Projects
