@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS3-fff?style=flat&logo=css3&logoColor=1a73e8)
 ![](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript&logoColor=d6d104)
+![](https://img.shields.io/badge/-JSON-fff?style=flat&logo=json&logoColor=123)
 ![](https://img.shields.io/badge/-Flask-fff?style=flat&logo=flask&logoColor=black)
 ![](https://img.shields.io/badge/-Django-fff?style=flat&logo=django&logoColor=02564f)
-![](https://img.shields.io/badge/-JSON-fff?style=flat&logo=json&logoColor=123)
+![](https://img.shields.io/badge/-Servlets-fff?style=flat&logo=java&logoColor=02564f)
+![](https://img.shields.io/badge/-JSP-fff?style=flat&logo=java&logoColor=02564f)
+![](https://img.shields.io/badge/-JDBC-fff?style=flat&logo=java&logoColor=02564f)
 
 #### Tools
 ![](https://img.shields.io/badge/-Jupyter-fff?style=flat&logo=jupyter)
