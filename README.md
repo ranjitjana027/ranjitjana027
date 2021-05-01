@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Languages
+#### Programming Languages
 ![](https://img.shields.io/badge/-C-fff?logo=C)
 ![](https://img.shields.io/badge/-Java-fff?style=flat&logo=java&logoColor=navy)
 ![](https://img.shields.io/badge/-Python-fff?style=flat&logo=python)
+![](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript&logoColor=d6d104)
 ![](https://img.shields.io/badge/-PostgreSQL-fff?style=flat&logo=postgresql&logoColor=336791)
 
 #### Web Technologies
 ![](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS3-fff?style=flat&logo=css3&logoColor=1a73e8)
-![](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript&logoColor=d6d104)
 ![](https://img.shields.io/badge/-React.js-fff?style=flat&logo=react&logoColor=02564f)
 ![](https://img.shields.io/badge/-Redux.js-fff?style=flat&logo=redux&logoColor=02564f)
 ![](https://img.shields.io/badge/-Flask-fff?style=flat&logo=flask&logoColor=black)
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <!--## Github Stats -->
 <a href="https://github.com/ranjitjana027/ranjitjana027">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitjana027&theme=cobalt"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitjana027&hide=css,html,jupyter%20notebook&langs_count=3&count_private=true&theme=cobalt"/>
 </a>
 <a href="https://github.com/ranjitjana027/ranjitjana027">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjitjana027&show_icons=true&line_height=27&count_private=true&theme=cobalt" />
