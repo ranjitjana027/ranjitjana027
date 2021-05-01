@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-PostgreSQL-fafafa?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 #### Web Technologies
-![](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=HTML5)
+![](https://img.shields.io/badge/-HTML5-fafafa?style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/-CSS3-fafafa?style=for-the-badge&logo=css3&logoColor=1a73e8)
 ![](https://img.shields.io/badge/-React.js-fafafa?style=for-the-badge&logo=react&logoColor=02564f)
 ![](https://img.shields.io/badge/-Redux.js-fafafa?style=for-the-badge&logo=redux&logoColor=02564f)
