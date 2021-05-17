@@ -41,11 +41,23 @@ Here are some ideas to get you started:
 #### Full Stack Projects
 
 <a href="https://github.com/ranjitjana027/Agrivio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=Agrivio&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=Agrivio" />
 </a>
 <a href="https://github.com/ranjitjana027/flackweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=flackweb&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=flackweb" />
+</a><br>
+<a href="https://github.com/ranjitjana027/flackweb-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=flackweb-react" />
 </a>
+<a href="https://github.com/ranjitjana027/flackweb-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=flackweb-api" />
+</a>
+
+#### AI Projects
+<a href="https://github.com/ranjitjana027/artificial-intelligence">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=artificial-intelligence" />
+</a>
+
 <br><br>
 <!--## Github Stats -->
 <a href="https://github.com/ranjitjana027/ranjitjana027">
