@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Java-fafafa?style=for-the-badge&logo=java&logoColor=navy)
 ![](https://img.shields.io/badge/-Python-fafafa?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-JavaScript-fafafa?style=for-the-badge&logo=javascript&logoColor=d6d104)
+![](https://img.shields.io/badge/-TypeScript-fafafa?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![](https://img.shields.io/badge/-PostgreSQL-fafafa?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 #### Web Technologies
