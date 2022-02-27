@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ranjitjana027/Agrivio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=Agrivio" />
-</a>
-<a href="https://github.com/ranjitjana027/flackweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=flackweb" />
 </a><br>
+<!-- <a href="https://github.com/ranjitjana027/flackweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=flackweb" />
+</a><br> -->
 <a href="https://github.com/ranjitjana027/flackweb-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjitjana027&repo=flackweb-react" />
 </a>
